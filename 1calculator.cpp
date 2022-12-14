@@ -4,7 +4,7 @@
 using namespace std;
 
 int main()
-{
+{ 
     float num1,num2,Result;
     int Operator;
     cout<<"Enter value of num1=";
